@@ -1,0 +1,45 @@
+{
+  "dates": [
+    "2026-07-27",
+    "2026-07-28",
+    "2026-07-29",
+    "2026-07-30"
+  ],
+  "pages_per_day": 3,
+  "per_day": {
+    "2026-07-27": {
+      "valid_records": 120,
+      "anomalies": 0,
+      "amount": 94902.97,
+      "qty": 691,
+      "records_after_dedup": 120
+    },
+    "2026-07-28": {
+      "valid_records": 117,
+      "anomalies": 3,
+      "amount": 88976.4,
+      "qty": 678,
+      "records_after_dedup": 120
+    },
+    "2026-07-29": {
+      "valid_records": 118,
+      "anomalies": 0,
+      "amount": 106074.35,
+      "qty": 748,
+      "records_after_dedup": 118
+    },
+    "2026-07-30": {
+      "valid_records": 120,
+      "anomalies": 0,
+      "amount": 99423.12,
+      "qty": 693,
+      "records_after_dedup": 120
+    }
+  },
+  "overall": {
+    "valid_records": 475,
+    "anomalies": 3,
+    "amount": 389376.84,
+    "qty": 2810
+  }
+}
